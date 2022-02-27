@@ -20,8 +20,8 @@
             "path": "lang/fr.json"
         }
     ],
-    "url": "https://github.com/L-B-D/NEF5",
-    "manifest": "https://github.com/L-B-D/NEF5/releases/latest/download/system.json",
-    "download": "https://github.com/L-B-D/NEF5/releases/download/v1.1.16.45/system.zip",
+    "url": "https://github.com/L-B-D/neph5",
+    "manifest": "https://github.com/L-B-D/neph5/releases/latest/download/system.json",
+    "download": "https://github.com/L-B-D/neph5/releases/download/v1.1.16.45/system.zip",
     "license": "license.txt"
 }
